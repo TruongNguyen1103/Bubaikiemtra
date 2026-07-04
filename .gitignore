@@ -1,0 +1,15 @@
+# File thực thi sau khi build
+bai1_ban_hang/bai1
+bai1_ban_hang/*.out
+bai2_mang_toan_cuc/*.out
+bai2_mang_toan_cuc/bai2_khong_dong_bo
+bai2_mang_toan_cuc/bai2_dong_bo
+bai3_race_condition/bai3
+bai3_race_condition/*.out
+bai4_mutex_fix/bai4
+bai4_mutex_fix/*.out
+
+# Chung
+*.o
+*.exe
+.DS_Store
